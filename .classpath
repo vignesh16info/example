@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/selenium/selenium-server-4.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/asm-7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/aspectjweaver-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/cglib-3.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-digester-1.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/commons-validator-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/poi-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/poi-ooxml-4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/slf4j-api-1.7.26.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/spring-aop-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/spring-beans-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/spring-context-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/spring-core-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/spring-expression-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/spring-jcl-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/test-evidence-word-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/screenshot jar/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/jxl/jar_files (2).zip"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/jxl/jxl-2.6.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/jxl/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/file utils/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/file utils/jar_files (1).zip"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/file utils/jplanets-fileutils-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/file utils/jplanets-logging-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/INTEL/Desktop/java/file utils/log4j-1.2.17.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
